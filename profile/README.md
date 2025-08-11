@@ -46,17 +46,19 @@
 </div>
 
 <h2 align="center">
-  Контакты
+  Мы в соцсетях
 </h2>
 
-<div align="center">
-
-|          |                                                                 |
-|----------|-----------------------------------------------------------------|
-| **Сайт** | [qmedia.by](https://qmedia.by)                                  |
-| **Email**| [dev@qmedia.by](mailto:dev@qmedia.by)                          |
-| **Соцсети**| [Telegram](https://t.me/qmediaby_news) • [LinkedIn](https://www.linkedin.com/company/78624500) • [Instagram](https://www.instagram.com/qmedia.by) |
-
+<div align="center" style="margin: 16px 0;">
+  <a href="https://t.me/qmediaby_news" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.linkedin.com/company/78624500" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/qmedia.by" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
 
 <div align="center" style="margin-top: 32px; color: #57606a;">
