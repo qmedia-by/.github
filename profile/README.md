@@ -24,7 +24,9 @@
   </a>
 </div>
 
-## 🛠 Технологии и инструменты
+<h2 align="center">
+  Технологии и инструменты
+</h2>
 
 <div align="center" style="margin: 24px 0;">
 
@@ -43,7 +45,9 @@
 
 </div>
 
-## 📬 Контакты
+<h2 align="center">
+  Контакты
+</h2>
 
 <div align="center">
 
