@@ -1,0 +1,143 @@
+<svg width="880" height="1120" viewBox="0 0 880 1120" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+  <style>
+    .f { opacity: 0; animation: fu 0.7s ease-out forwards; }
+    @keyframes fu { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    .d1 { animation-delay: 0.05s; } .d2 { animation-delay: 0.2s; } .d3 { animation-delay: 0.35s; }
+    .d4 { animation-delay: 0.5s; } .d5 { animation-delay: 0.65s; } .d6 { animation-delay: 0.8s; }
+    .pulse { animation: pl 2.2s ease-in-out infinite; }
+    @keyframes pl { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="879" height="1119" rx="23.5" fill="#FAFCF9" stroke="#E3E8E1"/>
+  <circle cx="856" cy="24" r="96" stroke="#3c993a" stroke-opacity="0.2" fill="none"/>
+  <circle cx="856" cy="24" r="150" stroke="#3c993a" stroke-opacity="0.11" fill="none"/>
+  <circle cx="856" cy="24" r="204" stroke="#3c993a" stroke-opacity="0.05" fill="none"/>
+  <rect x="800" y="166" width="8" height="8" rx="2" fill="#ffde00"/>
+
+  <g class="f d1">
+    <rect x="48" y="36" width="40" height="40" rx="10" fill="#3c993a"/>
+    <text x="68" y="63" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Q</text>
+    <text x="100" y="63" font-size="22" font-weight="600" fill="#182611">qmedia</text>
+    <rect x="646" y="40" width="186" height="32" rx="16" stroke="#DCE3DA" fill="none"/>
+    <circle cx="666" cy="56" r="4" fill="#EFC400" class="pulse"/>
+    <text x="678" y="60" font-size="12" fill="#5C6C58">принимаем заявки</text>
+  </g>
+
+  <g class="f d2">
+    <text x="48" y="152" font-size="42" font-weight="700" fill="#182611">Приводим клиентов</text>
+    <rect x="322" y="164" width="260" height="50" rx="10" fill="#ffde00"/>
+    <text x="48" y="202" font-size="42" font-weight="700" fill="#182611">из интернета <tspan fill="#1d4a10">с 2007 года</tspan></text>
+    <text x="48" y="244" font-size="16" fill="#5C6C58">Агентство интернет-маркетинга: продвигаем сайты, настраиваем рекламу</text>
+    <text x="48" y="268" font-size="16" fill="#5C6C58">и автоматизируем маркетинг. Опыт в 30+ бизнес-нишах.</text>
+  </g>
+
+  <g class="f d3">
+    <text x="48" y="336" font-size="32" font-weight="700" fill="#3c993a">с 2007</text>
+    <text x="48" y="360" font-size="12.5" fill="#5C6C58">года на рынке</text>
+    <line x1="188" y1="310" x2="188" y2="360" stroke="#E3E8E1"/>
+    <text x="205" y="336" font-size="32" font-weight="700" fill="#3c993a">3590</text>
+    <text x="205" y="360" font-size="12.5" fill="#5C6C58">успешных проектов</text>
+    <line x1="345" y1="310" x2="345" y2="360" stroke="#E3E8E1"/>
+    <text x="362" y="336" font-size="32" font-weight="700" fill="#3c993a">30+</text>
+    <text x="362" y="360" font-size="12.5" fill="#5C6C58">бизнес-ниш</text>
+    <line x1="502" y1="310" x2="502" y2="360" stroke="#E3E8E1"/>
+    <text x="519" y="336" font-size="32" font-weight="700" fill="#3c993a">35</text>
+    <text x="519" y="360" font-size="12.5" fill="#5C6C58">специалистов</text>
+    <line x1="659" y1="310" x2="659" y2="360" stroke="#E3E8E1"/>
+    <text x="676" y="336" font-size="32" font-weight="700" fill="#182611">4.9 <tspan fill="#EFC400">★</tspan></text>
+    <text x="676" y="360" font-size="12.5" fill="#5C6C58">рейтинг клиентов</text>
+    <line x1="48" y1="400" x2="832" y2="400" stroke="#E3E8E1"/>
+  </g>
+
+  <g class="f d4">
+    <text x="48" y="442" font-size="11" font-weight="600" letter-spacing="3" fill="#3c993a">УСЛУГИ</text>
+
+    <rect x="48" y="460" width="245" height="170" rx="16" fill="#FFFFFF" stroke="#E3E8E1"/>
+    <rect x="68" y="480" width="36" height="36" rx="10" fill="#3c993a" opacity="0.12"/>
+    <g stroke="#3c993a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(74 486)">
+      <path d="M2 21h20"/><path d="M3 15l6-6 4 4 8-8"/>
+    </g>
+    <text x="68" y="548" font-size="15.5" font-weight="600" fill="#1F2B1A">Продвижение сайтов</text>
+    <text x="68" y="572" font-size="12.5" fill="#6A7866">SEO-продвижение в топ</text>
+    <text x="68" y="590" font-size="12.5" fill="#6A7866">Яндекса и Google</text>
+
+    <rect x="317" y="460" width="245" height="170" rx="16" fill="#FFFFFF" stroke="#E3E8E1"/>
+    <rect x="337" y="480" width="36" height="36" rx="10" fill="#3c993a" opacity="0.12"/>
+    <g stroke="#3c993a" stroke-width="2" stroke-linecap="round" transform="translate(343 486)">
+      <circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" fill="#3c993a"/>
+    </g>
+    <text x="337" y="548" font-size="15.5" font-weight="600" fill="#1F2B1A">Контекстная реклама</text>
+    <text x="337" y="572" font-size="12.5" fill="#6A7866">Яндекс.Директ и Google Ads</text>
+    <text x="337" y="590" font-size="12.5" fill="#6A7866">с оплатой за результат</text>
+
+    <rect x="586" y="460" width="245" height="170" rx="16" fill="#FFFFFF" stroke="#E3E8E1"/>
+    <rect x="606" y="480" width="36" height="36" rx="10" fill="#3c993a" opacity="0.12"/>
+    <g stroke="#3c993a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(612 486)">
+      <circle cx="9" cy="8" r="3.5"/><path d="M3.5 19c0-3 2.5-5 5.5-5s5.5 2 5.5 5"/>
+      <path d="M15.5 6.3a3.5 3.5 0 0 1 0 5.4"/><path d="M17 14.2c2.4 0.7 3.8 2.4 3.8 4.8"/>
+    </g>
+    <text x="606" y="548" font-size="15.5" font-weight="600" fill="#1F2B1A">Реклама в соцсетях</text>
+    <text x="606" y="572" font-size="12.5" fill="#6A7866">Таргетированные кампании</text>
+    <text x="606" y="590" font-size="12.5" fill="#6A7866">и работа с аудиторией</text>
+
+    <rect x="48" y="654" width="245" height="170" rx="16" fill="#FFFFFF" stroke="#E3E8E1"/>
+    <rect x="68" y="674" width="36" height="36" rx="10" fill="#3c993a" opacity="0.12"/>
+    <g stroke="#3c993a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(74 680)">
+      <path d="M8 7L3 12l5 5"/><path d="M16 7l5 5-5 5"/>
+    </g>
+    <text x="68" y="742" font-size="15.5" font-weight="600" fill="#1F2B1A">Разработка сайтов</text>
+    <text x="68" y="766" font-size="12.5" fill="#6A7866">Сайты и приложения,</text>
+    <text x="68" y="784" font-size="12.5" fill="#6A7866">готовые к продвижению</text>
+
+    <rect x="317" y="654" width="245" height="170" rx="16" fill="#FFFFFF" stroke="#E3E8E1"/>
+    <rect x="337" y="674" width="36" height="36" rx="10" fill="#3c993a" opacity="0.12"/>
+    <g stroke="#3c993a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(343 680)">
+      <path d="M3 4h2l2.4 11h10.2L21 8H7"/>
+      <circle cx="9.5" cy="19.5" r="1.6"/><circle cx="16.5" cy="19.5" r="1.6"/>
+    </g>
+    <text x="337" y="742" font-size="15.5" font-weight="600" fill="#1F2B1A">Маркетплейсы</text>
+    <text x="337" y="766" font-size="12.5" fill="#6A7866">Рост продаж на Ozon</text>
+    <text x="337" y="784" font-size="12.5" fill="#6A7866">и других площадках</text>
+
+    <rect x="586" y="654" width="245" height="170" rx="16" fill="#FFFFFF" stroke="#E3E8E1"/>
+    <rect x="606" y="674" width="36" height="36" rx="10" fill="#3c993a" opacity="0.12"/>
+    <g stroke="#3c993a" stroke-width="2" stroke-linecap="round" transform="translate(612 680)">
+      <circle cx="12" cy="12" r="3.2"/>
+      <path d="M18 12h3M6 12H3M12 6V3M12 18v3M16.2 7.8l2.2-2.2M7.8 7.8L5.6 5.6M16.2 16.2l2.2 2.2M7.8 16.2l-2.2 2.2"/>
+    </g>
+    <text x="606" y="742" font-size="15.5" font-weight="600" fill="#1F2B1A">Автоматизация</text>
+    <text x="606" y="766" font-size="12.5" fill="#6A7866">CRM, сквозная аналитика</text>
+    <text x="606" y="784" font-size="12.5" fill="#6A7866">и медийная реклама</text>
+  </g>
+
+  <g class="f d5">
+    <text x="48" y="874" font-size="11" font-weight="600" letter-spacing="3" fill="#3c993a">ПАРТНЁРСТВА</text>
+    <rect x="48" y="888" width="122" height="32" rx="16" stroke="#DCE3DA" fill="none"/>
+    <text x="109" y="908" text-anchor="middle" font-size="12.5" fill="#5C6C58">Google Partner</text>
+    <rect x="182" y="888" width="128" height="32" rx="16" stroke="#DCE3DA" fill="none"/>
+    <text x="246" y="908" text-anchor="middle" font-size="12.5" fill="#5C6C58">Яндекс Партнёр</text>
+    <rect x="322" y="888" width="112" height="32" rx="16" stroke="#DCE3DA" fill="none"/>
+    <text x="378" y="908" text-anchor="middle" font-size="12.5" fill="#5C6C58">Ozon Partner</text>
+    <rect x="446" y="888" width="116" height="32" rx="16" stroke="#DCE3DA" fill="none"/>
+    <text x="504" y="908" text-anchor="middle" font-size="12.5" fill="#5C6C58">Bitrix Partner</text>
+    <text x="832" y="908" text-anchor="end" font-size="12.5" fill="#93A08F">qmedia.by</text>
+  </g>
+
+  <g class="f d6">
+    <rect x="48" y="952" width="784" height="96" rx="16" fill="#3c993a"/>
+    <text x="76" y="994" font-size="19" font-weight="700" fill="#FFFFFF">Есть задача для нас?</text>
+    <text x="76" y="1018" font-size="13" fill="#D8EED3">Ответим в течение часа и предложим план работ</text>
+    <rect x="636" y="978" width="168" height="44" rx="10" fill="#ffde00"/>
+    <text x="720" y="1005" text-anchor="middle" font-size="14" font-weight="700" fill="#1d4a10">Оставить заявку</text>
+
+    <g stroke="#3c993a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <g transform="translate(48 1072) scale(0.6)"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 6l10 7 10-7"/></g>
+      <g transform="translate(220 1072) scale(0.6)"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></g>
+      <g transform="translate(392 1072) scale(0.6)"><path d="M12 21s-6-5.7-6-10a6 6 0 1 1 12 0c0 4.3-6 10-6 10z"/><circle cx="12" cy="11" r="2.2"/></g>
+    </g>
+    <text x="68" y="1084" font-size="12.5" fill="#5C6C58">sales@qmedia.by</text>
+    <text x="240" y="1084" font-size="12.5" fill="#5C6C58">+375 29 335-23-23</text>
+    <text x="412" y="1084" font-size="12.5" fill="#5C6C58">Минск, ул. Притыцкого, 2/3, офис 24</text>
+    <text x="832" y="1084" text-anchor="end" font-size="12.5" fill="#93A08F">ООО «Кьюмедиа»</text>
+  </g>
+</svg>
